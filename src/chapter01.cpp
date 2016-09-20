@@ -4,7 +4,6 @@ using namespace std;
 #define SIZE 10
 #define QSIZE 101
 
-
 class c151{
 	int a;
 public:
